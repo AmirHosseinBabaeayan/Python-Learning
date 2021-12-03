@@ -14,4 +14,10 @@
 
 [کانال آپارات](https://www.aparat.com/amirhosseinbabaeayan)
 
+
+انعکاس خبری :
+ 
+[برگزاری دوره در ایسنا](https://www.isna.ir/news/1400062316789/)
+ 
+[خبر پایان دوره در بسنا](https://basna.ir/fa/news/5643/)
 </div>
