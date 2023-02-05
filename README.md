@@ -14,6 +14,7 @@
 
 [کانال آپارات](https://www.aparat.com/amirhosseinbabaeayan)
 
+[لینک لیست پخش در آپارات](https://www.aparat.com/v/r84bM?playlist=1217818)
 
 انعکاس خبری :
  
