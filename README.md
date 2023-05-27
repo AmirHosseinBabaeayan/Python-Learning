@@ -1,24 +1,22 @@
-# Python Learning (AI - DS)
+# Python Learning (Artificial Intelligence + Data Science)
 
-<div dir='rtl'>
+This repository is dedicated to Python courses with a focus on artificial intelligence, data science, and practical machine learning. I have been conducting these courses in various levels since 2021.
+In this repository, the course contents include codes, datasets, and useful links.
+These courses have had over 2300 participants so far. 
 
-این ریپوزیتوری مختص به دوره پایتون با رویکرد هوش مصنوعی و علوم داده می باشد.
+Links:
 
-در این ریپوزیتوری محتوا های دوره شامل کدها، دیتاست ها و لینک های کاربردی قرار داده می شود.
+[My Personal Website](https://amirhosseinbabaeayan.ir/)
 
-این دوره بیش از 2100 نفر مخاطب داشت. 
+[My Aparat](https://www.aparat.com/amirhosseinbabaeayan)
+
+[Aparat Playlist (Introduction to Python for AI + DS)](https://www.aparat.com/v/r84bM?playlist=1217818)
+
+[Aparat Playlist (Applied Machine Learning with Python)](https://www.aparat.com/v/OH7IR?playlist=4573241)
+
+In Persian NEWS:
  
- لینک ها: 
+[ISNA](https://www.isna.ir/news/1400062316789/)
  
-[وبسایت شخصی من](https://amirhosseinbabaeayan.ir/)
+[BASNA](https://basna.ir/fa/news/5643/)
 
-[کانال آپارات](https://www.aparat.com/amirhosseinbabaeayan)
-
-[لینک لیست پخش در آپارات](https://www.aparat.com/v/r84bM?playlist=1217818)
-
-انعکاس خبری :
- 
-[برگزاری دوره در ایسنا](https://www.isna.ir/news/1400062316789/)
- 
-[خبر پایان دوره در بسنا](https://basna.ir/fa/news/5643/)
-</div>
