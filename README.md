@@ -1,6 +1,6 @@
 # Python Learning (Artificial Intelligence + Data Science)
 
-This repository is dedicated to Python courses with a focus on artificial intelligence, data science, and practical machine learning. I have been conducting these courses in various levels since 2021.
+This repository is dedicated to Python courses with a focus on Artificial Intelligence, Data Science, and practical Machine Learning. I have been conducting these courses in various levels since 2021.
 In this repository, the course contents include codes, datasets, and useful links.
 These courses have had over 2300 participants so far. 
 
